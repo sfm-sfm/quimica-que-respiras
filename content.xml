@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260511205748YHWMVE</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260511205748YBI8HD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La química que respiras: investigando la calidad del aire</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Silvia Fernández Meléndez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto de Física y Química para 3º ESO sobre la calidad del aire y el uso responsable de herramientas digitales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778525856829</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp1eb368-rikyll3cy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PORTADA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1eb368-rikyll3cy</odePageId>
+      <odeBlockId>block-1778339482226-eo7wu4t2z</odeBlockId>
+      <blockName>La química que respiras: investigando la calidad del aire. Física y Química 3º ESO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1eb368-rikyll3cy</odePageId>
+          <odeBlockId>block-1778339482226-eo7wu4t2z</odeBlockId>
+          <odeIdeviceId>idevice-1778339482222-pftnp5zpj</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778339482222-pftnp5zpj" title="Imagen con licencia CC0" href="{{context_path}}/content/resources/imagen portada eXeLearning.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/imagen portada eXeLearning.jpg" height="128" width="128" title="Imagen con licencia CC0" alt="Imagen con licencia CC0" titlelink="" author="" authorlink="" license="Imagen con licencia CC0" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778339482222-pftnp5zpj","img_0":{"img":"{{context_path}}/content/resources/imagen portada eXeLearning.jpg","thumbnail":"{{context_path}}/content/resources/imagen portada eXeLearning.jpg","title":"Imagen con licencia CC0","linktitle":"","author":"","linkauthor":"","license":"Imagen con licencia CC0"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1eb36a-x3w5r7654</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1eb36a-x3w5r7654</odePageId>
+      <odeBlockId>block-1778340588929-wr34ow3rw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1eb36a-x3w5r7654</odePageId>
+          <odeBlockId>block-1778340588929-wr34ow3rw</odeBlockId>
+          <odeIdeviceId>idevice-1778340588926-g60g0g8gf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">🌍 <strong>DESCRIPCIÓN</strong><br /><strong>Descripción del proyecto</strong><br />La presente Situación de Aprendizaje titulada “La química que respiras: investigando la calidad del aire en nuestro entorno” está dirigida al alumnado de 3.º de ESO dentro de la materia de Física y Química.</p>
+<p style="text-align: justify;">A través de una metodología activa y competencial, el alumnado investigará la calidad del aire de su entorno cercano, identificando contaminantes atmosféricos, analizando datos reales y proponiendo medidas de mejora para favorecer una ciudadanía responsable y comprometida con el medioambiente.</p>
+<p style="text-align: justify;">El proyecto combina la investigación científica, el trabajo cooperativo y el uso responsable de herramientas digitales, favoreciendo el desarrollo del pensamiento crítico y la competencia digital.</p>
+<p style="text-align: justify;">Además, se promueve el aprendizaje significativo conectando los contenidos científicos con problemas reales y cercanos al alumnado.</p>
+<p>🎯 <strong>OBJETIVOS                                                                                                                                                            </strong><strong>Objetivos del proyecto</strong></p>
+<ul>
+<li>Comprender qué es la contaminación atmosférica y sus efectos.</li>
+<li>Identificar los principales contaminantes del aire.</li>
+<li>Interpretar datos relacionados con la calidad del aire.</li>
+<li>Desarrollar habilidades de investigación científica.</li>
+<li>Utilizar herramientas digitales de forma responsable, segura y crítica.</li>
+<li>Fomentar el trabajo cooperativo y la comunicación científica.</li>
+<li>Elaborar propuestas de mejora para el entorno cercano.</li>
+<li>Desarrollar actitudes de respeto y compromiso ambiental.<br /> <br />🧠 <strong>METODOLOGÍA</strong><br /><strong>Metodología</strong><br />La Situación de Aprendizaje se desarrollará mediante metodologías activas centradas en el alumnado, especialmente el Aprendizaje Basado en Proyectos (ABP) y la indagación científica.</li>
+</ul>
+<p style="text-align: justify;">El alumnado tendrá un papel protagonista en la búsqueda de información, el análisis de datos y la elaboración del producto final.</p>
+<p style="text-align: justify;">Se trabajará mediante:</p>
+<ul>
+<li>aprendizaje cooperativo,</li>
+<li>investigación guiada,</li>
+<li>análisis de problemas reales,</li>
+<li>uso de herramientas digitales,</li>
+<li>creación de contenidos digitales.                                                                                                                                 Las actividades estarán diseñadas siguiendo principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo diferentes formas de:</li>
+<li>representación de la información,</li>
+<li>participación,</li>
+<li>expresión del aprendizaje.<br />Además, se fomentará:</li>
+<li style="text-align: justify;">el uso responsable y seguro de las tecnologías,</li>
+<li style="text-align: justify;">el respeto a los derechos digitales,</li>
+<li style="text-align: justify;">la protección de datos personales,</li>
+<li style="text-align: justify;">la accesibilidad y atención a la diversidad.<br /> <br />⏳ <strong>TEMPORALIZACIÓN</strong><br /><strong>Temporalización</strong><br />La Situación de Aprendizaje se desarrollará durante aproximadamente 10 sesiones de 55 minutos distribuidas de la siguiente manera:</li>
+</ul>
+<p style="text-align: justify;"><strong>Tarea         </strong>                                                                               <strong>Sesiones</strong><br />¿Qué respiramos?                                                                    2 sesiones<br />Investigamos contaminantes                                                   2 sesiones<br />Medimos la calidad del aire                                                     2 sesiones<br />Experimentamos en el aula                                                      1 sesión<br />Elaboramos propuestas                                                           2 sesiones<br />Presentación final                                                                     1 sesión<br /></p>
+<p style="text-align: justify;">El proyecto se desarrollará en:</p>
+<ul>
+<li style="text-align: justify;">aula ordinaria,</li>
+<li style="text-align: justify;">aula TIC,</li>
+<li style="text-align: justify;">laboratorio.                                                                                                                                                             🔵<strong>MATERIAS IMPLICADAS</strong><br />Física y Química (principal)<br />Biología y Geología (apoyo interdisciplinar)<br />Tecnología y Digitalización (tratamiento de datos)<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778340588926-g60g0g8gf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">🌍 <strong>DESCRIPCIÓN</strong><br /><strong>Descripción del proyecto</strong><br />La presente Situación de Aprendizaje titulada “La química que respiras: investigando la calidad del aire en nuestro entorno” está dirigida al alumnado de 3.º de ESO dentro de la materia de Física y Química.</p>\n<p style=\"text-align: justify;\">A través de una metodología activa y competencial, el alumnado investigará la calidad del aire de su entorno cercano, identificando contaminantes atmosféricos, analizando datos reales y proponiendo medidas de mejora para favorecer una ciudadanía responsable y comprometida con el medioambiente.</p>\n<p style=\"text-align: justify;\">El proyecto combina la investigación científica, el trabajo cooperativo y el uso responsable de herramientas digitales, favoreciendo el desarrollo del pensamiento crítico y la competencia digital.</p>\n<p style=\"text-align: justify;\">Además, se promueve el aprendizaje significativo conectando los contenidos científicos con problemas reales y cercanos al alumnado.</p>\n<p>🎯 <strong>OBJETIVOS                                                                                                                                                            </strong><strong>Objetivos del proyecto</strong></p>\n<ul>\n<li>Comprender qué es la contaminación atmosférica y sus efectos.</li>\n<li>Identificar los principales contaminantes del aire.</li>\n<li>Interpretar datos relacionados con la calidad del aire.</li>\n<li>Desarrollar habilidades de investigación científica.</li>\n<li>Utilizar herramientas digitales de forma responsable, segura y crítica.</li>\n<li>Fomentar el trabajo cooperativo y la comunicación científica.</li>\n<li>Elaborar propuestas de mejora para el entorno cercano.</li>\n<li>Desarrollar actitudes de respeto y compromiso ambiental.<br /> <br />🧠 <strong>METODOLOGÍA</strong><br /><strong>Metodología</strong><br />La Situación de Aprendizaje se desarrollará mediante metodologías activas centradas en el alumnado, especialmente el Aprendizaje Basado en Proyectos (ABP) y la indagación científica.</li>\n</ul>\n<p style=\"text-align: justify;\">El alumnado tendrá un papel protagonista en la búsqueda de información, el análisis de datos y la elaboración del producto final.</p>\n<p style=\"text-align: justify;\">Se trabajará mediante:</p>\n<ul>\n<li>aprendizaje cooperativo,</li>\n<li>investigación guiada,</li>\n<li>análisis de problemas reales,</li>\n<li>uso de herramientas digitales,</li>\n<li>creación de contenidos digitales.                                                                                                                                 Las actividades estarán diseñadas siguiendo principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo diferentes formas de:</li>\n<li>representación de la información,</li>\n<li>participación,</li>\n<li>expresión del aprendizaje.<br />Además, se fomentará:</li>\n<li style=\"text-align: justify;\">el uso responsable y seguro de las tecnologías,</li>\n<li style=\"text-align: justify;\">el respeto a los derechos digitales,</li>\n<li style=\"text-align: justify;\">la protección de datos personales,</li>\n<li style=\"text-align: justify;\">la accesibilidad y atención a la diversidad.<br /> <br />⏳ <strong>TEMPORALIZACIÓN</strong><br /><strong>Temporalización</strong><br />La Situación de Aprendizaje se desarrollará durante aproximadamente 10 sesiones de 55 minutos distribuidas de la siguiente manera:</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Tarea         </strong>                                                                               <strong>Sesiones</strong><br />¿Qué respiramos?                                                                    2 sesiones<br />Investigamos contaminantes                                                   2 sesiones<br />Medimos la calidad del aire                                                     2 sesiones<br />Experimentamos en el aula                                                      1 sesión<br />Elaboramos propuestas                                                           2 sesiones<br />Presentación final                                                                     1 sesión<br /></p>\n<p style=\"text-align: justify;\">El proyecto se desarrollará en:</p>\n<ul>\n<li style=\"text-align: justify;\">aula ordinaria,</li>\n<li style=\"text-align: justify;\">aula TIC,</li>\n<li style=\"text-align: justify;\">laboratorio.                                                                                                                                                             🔵<strong>MATERIAS IMPLICADAS</strong><br />Física y Química (principal)<br />Biología y Geología (apoyo interdisciplinar)<br />Tecnología y Digitalización (tratamiento de datos)<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778516321272-7mgdon59l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778516321272-7mgdon59l</odePageId>
+      <odeBlockId>block-1778516836747-5nt9hw5pt</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778516321272-7mgdon59l</odePageId>
+          <odeBlockId>block-1778516836747-5nt9hw5pt</odeBlockId>
+          <odeIdeviceId>idevice-1778516836745-u31guoqmo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🔐 SEGURIDAD DIGITAL Y USO RESPONSABLE DE CONTENIDOS<br />Guía básica para el alumnado<br /> <br />🛡️ 1. PROTEGE TUS DATOS PERSONALES<br />No compartas información sensible:<br />👉 nombre completo, dirección, teléfono, contraseñas<br />Usa contraseñas seguras:<br />✔ largas + combinando letras, números y símbolos<br />Activa la verificación en dos pasos<br />Cierra sesión en dispositivos compartidos<br />💡 Recuerda: lo que subes a internet puede quedarse para siempre</p>
+<p> <br />📱 2. SEGURIDAD EN EL CENTRO EDUCATIVO<br />Usa solo plataformas oficiales del centro<br />No descargues archivos de origen desconocido<br />Respeta los dispositivos y cuentas de otros<br />Informa al profesorado si detectas algo sospechoso<br /> <br />⚖️ 3. DERECHOS DIGITALES DEL ALUMNADO<br />Derecho a la privacidad 🔒<br />Derecho a la protección de datos 🧾<br />Derecho a una identidad digital segura 👤<br />Derecho a no sufrir acoso digital 🚫<br />❗ Si algo te incomoda en internet:<br />👉 habla con un adulto o docente</p>
+<p> <br />📚 4. TIPOS DE LICENCIAS PARA COMPARTIR CONTENIDOS<br />© Copyright<br />Todos los derechos reservados<br />❌ No se puede usar sin permiso<br />🟢 Creative Commons (CC)<br />Permiten compartir con condiciones:</p>
+<p>CC BY → usar citando autor<br />CC BY-SA → compartir igual<br />CC BY-NC → uso no comercial<br />CC BY-ND → no modificar<br />🌍 Dominio Público<br />✔ Uso libre sin restricciones<br />💡 Siempre cita la fuente aunque sea gratuito</p>
+<p> <br />✍️ 5. BUENAS PRÁCTICAS DIGITALES<br />Piensa antes de publicar 🤔<br />Respeta a los demás 💬<br />No difundas contenido sin permiso<br />Verifica la información antes de compartir<br /> <br />🚨 6. CIBERSEGURIDAD Y CONVIVENCIA<br />No participes en ciberacoso<br />Bloquea y reporta usuarios problemáticos<br />Guarda pruebas si ocurre un problema<br />Pide ayuda: no estás solo/a</p>
+<p><a href="{{context_path}}/content/resources/Infografía seguridad digital y licencias SFM.pdf" title="Infografía seguridad digital y licencias SFM.pdf">Descargar infografía</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778516836745-u31guoqmo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🔐 SEGURIDAD DIGITAL Y USO RESPONSABLE DE CONTENIDOS<br />Guía básica para el alumnado<br /> <br />🛡️ 1. PROTEGE TUS DATOS PERSONALES<br />No compartas información sensible:<br />👉 nombre completo, dirección, teléfono, contraseñas<br />Usa contraseñas seguras:<br />✔ largas + combinando letras, números y símbolos<br />Activa la verificación en dos pasos<br />Cierra sesión en dispositivos compartidos<br />💡 Recuerda: lo que subes a internet puede quedarse para siempre</p>\n<p> <br />📱 2. SEGURIDAD EN EL CENTRO EDUCATIVO<br />Usa solo plataformas oficiales del centro<br />No descargues archivos de origen desconocido<br />Respeta los dispositivos y cuentas de otros<br />Informa al profesorado si detectas algo sospechoso<br /> <br />⚖️ 3. DERECHOS DIGITALES DEL ALUMNADO<br />Derecho a la privacidad 🔒<br />Derecho a la protección de datos 🧾<br />Derecho a una identidad digital segura 👤<br />Derecho a no sufrir acoso digital 🚫<br />❗ Si algo te incomoda en internet:<br />👉 habla con un adulto o docente</p>\n<p> <br />📚 4. TIPOS DE LICENCIAS PARA COMPARTIR CONTENIDOS<br />© Copyright<br />Todos los derechos reservados<br />❌ No se puede usar sin permiso<br />🟢 Creative Commons (CC)<br />Permiten compartir con condiciones:</p>\n<p>CC BY → usar citando autor<br />CC BY-SA → compartir igual<br />CC BY-NC → uso no comercial<br />CC BY-ND → no modificar<br />🌍 Dominio Público<br />✔ Uso libre sin restricciones<br />💡 Siempre cita la fuente aunque sea gratuito</p>\n<p> <br />✍️ 5. BUENAS PRÁCTICAS DIGITALES<br />Piensa antes de publicar 🤔<br />Respeta a los demás 💬<br />No difundas contenido sin permiso<br />Verifica la información antes de compartir<br /> <br />🚨 6. CIBERSEGURIDAD Y CONVIVENCIA<br />No participes en ciberacoso<br />Bloquea y reporta usuarios problemáticos<br />Guarda pruebas si ocurre un problema<br />Pide ayuda: no estás solo/a</p>\n<p><a href=\"{{context_path}}/content/resources/Infografía seguridad digital y licencias SFM.pdf\" title=\"Infografía seguridad digital y licencias SFM.pdf\">Descargar infografía</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778517047750-nudz2yolo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778517047750-nudz2yolo</odePageId>
+      <odeBlockId>block-1778517057554-r2s64mkgb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778517047750-nudz2yolo</odePageId>
+          <odeBlockId>block-1778517057554-r2s64mkgb</odeBlockId>
+          <odeIdeviceId>idevice-1778517057552-wkkhrtgal</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En el diseño de esta situación de aprendizaje sobre la contaminación del aire para 3º ESO, he considerado fundamental que el producto final no sea únicamente un trabajo teórico, sino una creación digital con intención comunicativa real, orientada a la sensibilización de la comunidad educativa. Para ello, he optado por proponer el uso de herramientas como Canva, Genially y, en el caso de que el alumnado prefiera un formato audiovisual, editores sencillos como CapCut o Clipchamp.</p>
+<p style="text-align: justify;">La elección de estas herramientas responde, en primer lugar, a su gran versatilidad, ya que permiten trabajar diferentes formatos de producto final (infografías, presentaciones interactivas o vídeos), facilitando así la atención a la diversidad y respetando los distintos estilos de aprendizaje del alumnado. Además, todas ellas integran fácilmente elementos visuales, datos y recursos multimedia, lo que resulta especialmente adecuado para abordar contenidos científicos como los relacionados con la calidad del aire, sus causas y sus consecuencias.</p>
+<p style="text-align: justify;">Por otro lado, se trata de herramientas accesibles y disponibles en la mayoría de centros educativos, ya que funcionan en línea y cuentan con versiones gratuitas o educativas. Esto evita problemas técnicos y permite que el alumnado pueda continuar el trabajo tanto en el aula como en casa, favoreciendo la autonomía.</p>
+<p style="text-align: justify;">En cuanto a la edad y características del alumnado de 3º ESO, considero que estas herramientas son especialmente adecuadas por su interfaz intuitiva y su enfoque visual, muy alineado con el tipo de contenidos digitales que consumen habitualmente. Esto incrementa su motivación y facilita que se impliquen más en la tarea. Además, el uso de estas aplicaciones contribuye al desarrollo de la competencia digital, no solo en la creación de contenidos, sino también en la selección crítica de la información y en la comunicación eficaz de mensajes con base científica.</p>
+<p style="text-align: justify;">En definitiva, la integración de estas herramientas digitales en la situación de aprendizaje permite que el alumnado no solo comprenda el problema de la contaminación del aire, sino que sea capaz de transformar ese conocimiento en un mensaje significativo y socialmente relevante, desarrollando así un aprendizaje más competencial, activo y conectado con la realidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778517057552-wkkhrtgal","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En el diseño de esta situación de aprendizaje sobre la contaminación del aire para 3º ESO, he considerado fundamental que el producto final no sea únicamente un trabajo teórico, sino una creación digital con intención comunicativa real, orientada a la sensibilización de la comunidad educativa. Para ello, he optado por proponer el uso de herramientas como Canva, Genially y, en el caso de que el alumnado prefiera un formato audiovisual, editores sencillos como CapCut o Clipchamp.</p>\n<p style=\"text-align: justify;\">La elección de estas herramientas responde, en primer lugar, a su gran versatilidad, ya que permiten trabajar diferentes formatos de producto final (infografías, presentaciones interactivas o vídeos), facilitando así la atención a la diversidad y respetando los distintos estilos de aprendizaje del alumnado. Además, todas ellas integran fácilmente elementos visuales, datos y recursos multimedia, lo que resulta especialmente adecuado para abordar contenidos científicos como los relacionados con la calidad del aire, sus causas y sus consecuencias.</p>\n<p style=\"text-align: justify;\">Por otro lado, se trata de herramientas accesibles y disponibles en la mayoría de centros educativos, ya que funcionan en línea y cuentan con versiones gratuitas o educativas. Esto evita problemas técnicos y permite que el alumnado pueda continuar el trabajo tanto en el aula como en casa, favoreciendo la autonomía.</p>\n<p style=\"text-align: justify;\">En cuanto a la edad y características del alumnado de 3º ESO, considero que estas herramientas son especialmente adecuadas por su interfaz intuitiva y su enfoque visual, muy alineado con el tipo de contenidos digitales que consumen habitualmente. Esto incrementa su motivación y facilita que se impliquen más en la tarea. Además, el uso de estas aplicaciones contribuye al desarrollo de la competencia digital, no solo en la creación de contenidos, sino también en la selección crítica de la información y en la comunicación eficaz de mensajes con base científica.</p>\n<p style=\"text-align: justify;\">En definitiva, la integración de estas herramientas digitales en la situación de aprendizaje permite que el alumnado no solo comprenda el problema de la contaminación del aire, sino que sea capaz de transformar ese conocimiento en un mensaje significativo y socialmente relevante, desarrollando así un aprendizaje más competencial, activo y conectado con la realidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778517317786-ocf7d3j8g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778517317786-ocf7d3j8g</odePageId>
+      <odeBlockId>block-1778517768549-zy2pyii33</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778517317786-ocf7d3j8g</odePageId>
+          <odeBlockId>block-1778517768549-zy2pyii33</odeBlockId>
+          <odeIdeviceId>idevice-1778517768546-i0kqdck48</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Para el desarrollo de esta Situación de Aprendizaje se han diseñado dos herramientas de curación de contenidos con el objetivo de facilitar el acceso organizado a recursos digitales tanto para el alumnado como para el profesorado.</p>
+<p style="text-align: justify;">Los recursos seleccionados han sido filtrados y organizados atendiendo a:</p>
+<ul>
+<li>la calidad de la información,</li>
+<li>la adecuación al nivel educativo,</li>
+<li>el uso responsable y seguro de las tecnologías digitales,</li>
+<li>la accesibilidad y claridad visual.                                                                                                                            Estas herramientas permiten fomentar la autonomía del alumnado, el aprendizaje cooperativo y la competencia digital.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778517768546-i0kqdck48","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para el desarrollo de esta Situación de Aprendizaje se han diseñado dos herramientas de curación de contenidos con el objetivo de facilitar el acceso organizado a recursos digitales tanto para el alumnado como para el profesorado.</p>\n<p style=\"text-align: justify;\">Los recursos seleccionados han sido filtrados y organizados atendiendo a:</p>\n<ul>\n<li>la calidad de la información,</li>\n<li>la adecuación al nivel educativo,</li>\n<li>el uso responsable y seguro de las tecnologías digitales,</li>\n<li>la accesibilidad y claridad visual.                                                                                                                            Estas herramientas permiten fomentar la autonomía del alumnado, el aprendizaje cooperativo y la competencia digital.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778517370798-9aiuh1560</odePageId>
+  <odeParentPageId>page-1778517317786-ocf7d3j8g</odeParentPageId>
+  <pageName>Recursos alumnado</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778517370798-9aiuh1560</odePageId>
+      <odeBlockId>block-1778517870070-ho8r44pzi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778517370798-9aiuh1560</odePageId>
+          <odeBlockId>block-1778517870070-ho8r44pzi</odeBlockId>
+          <odeIdeviceId>idevice-1778517870068-tpee1m677</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se ha creado una recopilación de recursos digitales dirigida al alumnado para facilitar:</p>
+<ul>
+<li>la investigación sobre la calidad del aire,</li>
+<li>la búsqueda de información fiable,</li>
+<li>el análisis de datos,</li>
+<li>la elaboración del producto final.<br />Herramienta utilizada:</li>
+</ul>
+<p><a href="https://padlet.com/sfermel407/la-quimica-que-respiras-recursos-para-investigar-la-calidad--kmoaomb2zay0qn4q"><strong title=""> Padlet</strong></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778517870068-tpee1m677","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se ha creado una recopilación de recursos digitales dirigida al alumnado para facilitar:</p>\n<ul>\n<li>la investigación sobre la calidad del aire,</li>\n<li>la búsqueda de información fiable,</li>\n<li>el análisis de datos,</li>\n<li>la elaboración del producto final.<br />Herramienta utilizada:</li>\n</ul>\n<p><a href=\"https://padlet.com/sfermel407/la-quimica-que-respiras-recursos-para-investigar-la-calidad--kmoaomb2zay0qn4q\"><strong title=\"\"> Padlet</strong></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778518054343-xu3f13k41</odePageId>
+  <odeParentPageId>page-1778517317786-ocf7d3j8g</odeParentPageId>
+  <pageName>Recursos docente</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778518054343-xu3f13k41</odePageId>
+      <odeBlockId>block-1778518056012-cjpb7fq1y</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778518054343-xu3f13k41</odePageId>
+          <odeBlockId>block-1778518056012-cjpb7fq1y</odeBlockId>
+          <odeIdeviceId>idevice-1778518056011-3dtvfvmis</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se ha diseñado una recopilación de herramientas digitales y recursos educativos para facilitar la gestión del proyecto y enriquecer la práctica docente.</p>
+<p>Herramienta utilizada:</p>
+<p><strong>Symbaloo: </strong><a href="https://www.symbaloo.com/shared/AAAAAf90uNEAA41-5EZMqA==">https://www.symbaloo.com/shared/AAAAAf90uNEAA41-5EZMqA==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778518056011-3dtvfvmis","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se ha diseñado una recopilación de herramientas digitales y recursos educativos para facilitar la gestión del proyecto y enriquecer la práctica docente.</p>\n<p>Herramienta utilizada:</p>\n<p><strong>Symbaloo: </strong><a href=\"https://www.symbaloo.com/shared/AAAAAf90uNEAA41-5EZMqA==\">https://www.symbaloo.com/shared/AAAAAf90uNEAA41-5EZMqA==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778518963446-f05ks4poj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778518963446-f05ks4poj</odePageId>
+      <odeBlockId>block-1778518993666-5qpvuziyj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778518963446-f05ks4poj</odePageId>
+          <odeBlockId>block-1778518993666-5qpvuziyj</odeBlockId>
+          <odeIdeviceId>idevice-1778518993664-ef3w6wikl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La siguiente línea temporal organiza de forma visual las tareas y actividades de la Situación de Aprendizaje “La química que respiras”.</p>
+<p>En ella se incluyen:</p>
+<ul>
+<li>las tareas que realizará el alumnado,</li>
+<li>la temporalización,</li>
+<li>los agrupamientos,</li>
+<li>las herramientas digitales,</li>
+<li>los espacios de trabajo,</li>
+<li>y los recursos tecnológicos necesarios.<br />Este recurso sirve como guía visual para facilitar la comprensión global del proyecto y favorecer la autonomía del alumnado.</li>
+<li><img src="{{context_path}}/content/resources/LA QUÍMICA QUE RESPIRAS 🧪 Investigación sobre la calidad del aire.png" width="749" height="421" alt="Línea temporal del proyecto sobre calidad del aire" /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778518993664-ef3w6wikl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La siguiente línea temporal organiza de forma visual las tareas y actividades de la Situación de Aprendizaje “La química que respiras”.</p>\n<p>En ella se incluyen:</p>\n<ul>\n<li>las tareas que realizará el alumnado,</li>\n<li>la temporalización,</li>\n<li>los agrupamientos,</li>\n<li>las herramientas digitales,</li>\n<li>los espacios de trabajo,</li>\n<li>y los recursos tecnológicos necesarios.<br />Este recurso sirve como guía visual para facilitar la comprensión global del proyecto y favorecer la autonomía del alumnado.</li>\n<li><img src=\"{{context_path}}/content/resources/LA QUÍMICA QUE RESPIRAS 🧪 Investigación sobre la calidad del aire.png\" width=\"749\" height=\"421\" alt=\"Línea temporal del proyecto sobre calidad del aire\" /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519846584-btnut1bw5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519846584-btnut1bw5</odePageId>
+      <odeBlockId>block-1778519925952-spgytbaei</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519846584-btnut1bw5</odePageId>
+          <odeBlockId>block-1778519925952-spgytbaei</odeBlockId>
+          <odeIdeviceId>idevice-1778519925947-e9pwybaa1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de esta Situación de Aprendizaje se realizará mediante criterios de evaluación vinculados al currículo andaluz de Física y Química de 3.º de ESO.</p>
+<p>Los criterios permitirán valorar:</p>
+<ul>
+<li>la comprensión científica,</li>
+<li>el trabajo cooperativo,</li>
+<li>la competencia digital,</li>
+<li>la interpretación de datos,</li>
+<li>y la comunicación de conclusiones científicas.                                                                                                                   La evaluación tendrá carácter:</li>
+<li>continuo,</li>
+<li>formativo,</li>
+<li>competencial.                                                                                                                                                                   <a href="{{context_path}}/content/resources/Relación de tareas con criterios de evaluación.pdf" title="Relación de tareas con criterios de evaluación.pdf">Descargar relación de tareas con criterios de evaluación</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778519925947-e9pwybaa1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de esta Situación de Aprendizaje se realizará mediante criterios de evaluación vinculados al currículo andaluz de Física y Química de 3.º de ESO.</p>\n<p>Los criterios permitirán valorar:</p>\n<ul>\n<li>la comprensión científica,</li>\n<li>el trabajo cooperativo,</li>\n<li>la competencia digital,</li>\n<li>la interpretación de datos,</li>\n<li>y la comunicación de conclusiones científicas.                                                                                                                   La evaluación tendrá carácter:</li>\n<li>continuo,</li>\n<li>formativo,</li>\n<li>competencial.                                                                                                                                                                   <a href=\"{{context_path}}/content/resources/Relación de tareas con criterios de evaluación.pdf\" title=\"Relación de tareas con criterios de evaluación.pdf\">Descargar relación de tareas con criterios de evaluación</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519398336-zi4jxpp83</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519398336-zi4jxpp83</odePageId>
+      <odeBlockId>block-1778519502021-0qfcl6a80</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519398336-zi4jxpp83</odePageId>
+          <odeBlockId>block-1778519502021-0qfcl6a80</odeBlockId>
+          <odeIdeviceId>idevice-1778519502018-1w99n1mq9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el desarrollo de esta Situación de Aprendizaje se han diseñado diferentes instrumentos de evaluación adaptados al nivel educativo y a las metodologías activas utilizadas.</p>
+<p>Estos instrumentos permiten realizar una evaluación:</p>
+<ul>
+<li>continua,</li>
+<li>formativa,</li>
+<li>competencial,</li>
+<li>y ajustada a la diversidad del alumnado.<br />A continuación, se incluye el documento con la rúbrica y la lista de cotejo utilizadas durante el proyecto. <a href="{{context_path}}/content/resources/Instrumentos de evaluación - Situación de Aprendizaje-SFM.pdf" title="Instrumentos de evaluación - Situación de Aprendizaje-SFM.pdf">Descargar instrumentos de evaluación</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778519502018-1w99n1mq9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el desarrollo de esta Situación de Aprendizaje se han diseñado diferentes instrumentos de evaluación adaptados al nivel educativo y a las metodologías activas utilizadas.</p>\n<p>Estos instrumentos permiten realizar una evaluación:</p>\n<ul>\n<li>continua,</li>\n<li>formativa,</li>\n<li>competencial,</li>\n<li>y ajustada a la diversidad del alumnado.<br />A continuación, se incluye el documento con la rúbrica y la lista de cotejo utilizadas durante el proyecto. <a href=\"{{context_path}}/content/resources/Instrumentos de evaluación - Situación de Aprendizaje-SFM.pdf\" title=\"Instrumentos de evaluación - Situación de Aprendizaje-SFM.pdf\">Descargar instrumentos de evaluación</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778520387068-4uoiqjpct</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778520387068-4uoiqjpct</odePageId>
+      <odeBlockId>block-1778520403189-ryvdd0523</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778520387068-4uoiqjpct</odePageId>
+          <odeBlockId>block-1778520403189-ryvdd0523</odeBlockId>
+          <odeIdeviceId>idevice-1778520403186-pruuopd5p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Situación de Aprendizaje: “La química que respiras: investigando la calidad del aire en nuestro entorno”</strong><br />La presente Situación de Aprendizaje está dirigida al alumnado de 3.º de ESO dentro de la materia de Física y Química y se desarrolla mediante metodologías activas centradas en el aprendizaje competencial y significativo.</p>
+<p style="text-align: justify;">El proyecto pretende acercar la ciencia a la realidad cotidiana del alumnado mediante el estudio de la calidad del aire y sus efectos sobre la salud y el medioambiente.</p>
+<p style="text-align: justify;"> <br />🎯 <strong>Finalidad didáctica</strong><br />La finalidad de esta Situación de Aprendizaje es que el alumnado:</p>
+<ul>
+<li>comprenda fenómenos relacionados con la contaminación atmosférica,</li>
+<li>interprete datos científicos reales,</li>
+<li>desarrolle habilidades de investigación,</li>
+<li>utilice herramientas digitales de forma responsable,</li>
+<li>y proponga soluciones relacionadas con la mejora del entorno.<br />Se fomenta además:</li>
+<li>el pensamiento crítico,</li>
+<li>el trabajo cooperativo,</li>
+<li>la comunicación científica,</li>
+<li>y la conciencia ambiental.<br /> <br />🧠 <strong>Metodología</strong><br />La metodología utilizada se basa principalmente en:</li>
+<li>Aprendizaje Basado en Proyectos (ABP),</li>
+<li>aprendizaje cooperativo,</li>
+<li>investigación guiada,</li>
+<li>uso de herramientas digitales,</li>
+<li>y resolución de problemas reales.<br />El alumnado tendrá un papel activo durante todo el proceso:</li>
+<li>investigando,</li>
+<li>analizando datos,</li>
+<li>elaborando materiales,</li>
+<li>y presentando conclusiones.<br />El profesorado actuará como guía y facilitador del aprendizaje.</li>
+</ul>
+<p> <br />💻 <strong>Uso responsable de las tecnologías digitales</strong><br />Durante el proyecto se fomentará:</p>
+<ul>
+<li>el uso seguro y responsable de internet,</li>
+<li>la protección de datos personales,</li>
+<li>la selección crítica de información,</li>
+<li>el respeto a los derechos de autor,</li>
+<li>y el uso saludable y sostenible de dispositivos digitales.<br />Las herramientas digitales utilizadas serán:</li>
+<li>Canva,</li>
+<li>Padlet,</li>
+<li>Symbaloo,</li>
+<li>Google Docs,</li>
+<li>Google Sheets,</li>
+<li>Genially,</li>
+<li style="text-align: justify;">IQAir.<br /> <br />♿ <strong>Atención a la diversidad y DUA</strong><br />La Situación de Aprendizaje ha sido diseñada siguiendo principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo:</li>
+<li>diferentes formas de acceso a la información,</li>
+<li>variedad de recursos visuales y digitales,</li>
+<li>trabajo cooperativo,</li>
+<li>diferentes formas de expresión del aprendizaje,</li>
+<li>adaptación de tareas según necesidades del alumnado.<br />Se favorecerá:</li>
+<li>la inclusión,</li>
+<li>la accesibilidad,</li>
+<li>y la participación activa de todo el alumnado.<br /> <br />📊 <strong>Relación entre tareas y criterios de evaluación</strong><br />🟢 Tarea 1. ¿Qué respiramos?<br />Criterios:<br />1.1 – 2.1 – 4.1</li>
+</ul>
+<p>        🔵 Tarea 2. Investigamos contaminantes<br />         Criterios:<br />        1.3 – 3.1 – 4.1 – 5.1</p>
+<p>        🟡 Tarea 3. Medimos la calidad del aire<br />         Criterios:<br />         1.2 – 2.2 – 3.1 – 4.1</p>
+<p>         🟠 Tarea 4. Experimentamos en el aula<br />        Criterios:<br />        2.1 – 2.2 – 3.1 – 5.1</p>
+<p>        🔴 Tarea 5. Elaboramos propuestas<br />        Criterios:<br />       1.3 – 4.1 – 5.1 – 6.1</p>
+<p>       🟣 Tarea 6. Presentación final<br />       Criterios:<br />       1.1 – 3.1 – 4.1 – 5.1 – 6.1</p>
+<p> <br />🧪<strong> Instrumentos de evaluación</strong><br />Los instrumentos de evaluación utilizados serán:</p>
+<ul>
+<li>rúbrica de trabajo cooperativo y competencia digital,</li>
+<li>lista de cotejo para la exposición final,</li>
+<li>observación directa,</li>
+<li>revisión de productos digitales,</li>
+<li>autoevaluación y coevaluación.<br />La evaluación será:</li>
+<li>continua,</li>
+<li>formativa,</li>
+<li>competencial,</li>
+<li>y adaptada a la diversidad del alumnado.<br /> <br />🕒 <strong>Temporalización</strong><br />La Situación de Aprendizaje se desarrollará durante 10 sesiones de 55 minutos.</li>
+</ul>
+<ul style="list-style-type: square;">
+<li style="text-align: justify;">Tarea                                            Sesiones<br />¿Qué respiramos?                             2<br />Investigamos contaminantes            2<br />Medimos calidad del aire                 2<br />Experimentamos                               1<br />Elaboramos propuestas                    2<br />Presentación final                             1<br /> <br />📍 Espacios utilizados<br />Aula ordinaria<br />Aula TIC<br />Laboratorio<br />📝 <strong>Recomendaciones para el profesorado</strong><br />Comprobar previamente el funcionamiento de los recursos digitales.<br />Facilitar tutoriales sencillos para el alumnado.<br />Adaptar tiempos y agrupamientos según necesidades.<br />Priorizar el acompañamiento y la guía durante el trabajo cooperativo.<br />Favorecer un clima participativo e inclusivo.<br /> <br />🌱 <strong>Conclusión</strong><br />Esta Situación de Aprendizaje pretende fomentar una enseñanza de la Física y la Química conectada con problemas reales del entorno, favoreciendo el aprendizaje significativo, la competencia digital y la conciencia ambiental del alumnado mediante metodologías activas e inclusivas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778520403186-pruuopd5p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Situación de Aprendizaje: “La química que respiras: investigando la calidad del aire en nuestro entorno”</strong><br />La presente Situación de Aprendizaje está dirigida al alumnado de 3.º de ESO dentro de la materia de Física y Química y se desarrolla mediante metodologías activas centradas en el aprendizaje competencial y significativo.</p>\n<p style=\"text-align: justify;\">El proyecto pretende acercar la ciencia a la realidad cotidiana del alumnado mediante el estudio de la calidad del aire y sus efectos sobre la salud y el medioambiente.</p>\n<p style=\"text-align: justify;\"> <br />🎯 <strong>Finalidad didáctica</strong><br />La finalidad de esta Situación de Aprendizaje es que el alumnado:</p>\n<ul>\n<li>comprenda fenómenos relacionados con la contaminación atmosférica,</li>\n<li>interprete datos científicos reales,</li>\n<li>desarrolle habilidades de investigación,</li>\n<li>utilice herramientas digitales de forma responsable,</li>\n<li>y proponga soluciones relacionadas con la mejora del entorno.<br />Se fomenta además:</li>\n<li>el pensamiento crítico,</li>\n<li>el trabajo cooperativo,</li>\n<li>la comunicación científica,</li>\n<li>y la conciencia ambiental.<br /> <br />🧠 <strong>Metodología</strong><br />La metodología utilizada se basa principalmente en:</li>\n<li>Aprendizaje Basado en Proyectos (ABP),</li>\n<li>aprendizaje cooperativo,</li>\n<li>investigación guiada,</li>\n<li>uso de herramientas digitales,</li>\n<li>y resolución de problemas reales.<br />El alumnado tendrá un papel activo durante todo el proceso:</li>\n<li>investigando,</li>\n<li>analizando datos,</li>\n<li>elaborando materiales,</li>\n<li>y presentando conclusiones.<br />El profesorado actuará como guía y facilitador del aprendizaje.</li>\n</ul>\n<p> <br />💻 <strong>Uso responsable de las tecnologías digitales</strong><br />Durante el proyecto se fomentará:</p>\n<ul>\n<li>el uso seguro y responsable de internet,</li>\n<li>la protección de datos personales,</li>\n<li>la selección crítica de información,</li>\n<li>el respeto a los derechos de autor,</li>\n<li>y el uso saludable y sostenible de dispositivos digitales.<br />Las herramientas digitales utilizadas serán:</li>\n<li>Canva,</li>\n<li>Padlet,</li>\n<li>Symbaloo,</li>\n<li>Google Docs,</li>\n<li>Google Sheets,</li>\n<li>Genially,</li>\n<li style=\"text-align: justify;\">IQAir.<br /> <br />♿ <strong>Atención a la diversidad y DUA</strong><br />La Situación de Aprendizaje ha sido diseñada siguiendo principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo:</li>\n<li>diferentes formas de acceso a la información,</li>\n<li>variedad de recursos visuales y digitales,</li>\n<li>trabajo cooperativo,</li>\n<li>diferentes formas de expresión del aprendizaje,</li>\n<li>adaptación de tareas según necesidades del alumnado.<br />Se favorecerá:</li>\n<li>la inclusión,</li>\n<li>la accesibilidad,</li>\n<li>y la participación activa de todo el alumnado.<br /> <br />📊 <strong>Relación entre tareas y criterios de evaluación</strong><br />🟢 Tarea 1. ¿Qué respiramos?<br />Criterios:<br />1.1 – 2.1 – 4.1</li>\n</ul>\n<p>        🔵 Tarea 2. Investigamos contaminantes<br />         Criterios:<br />        1.3 – 3.1 – 4.1 – 5.1</p>\n<p>        🟡 Tarea 3. Medimos la calidad del aire<br />         Criterios:<br />         1.2 – 2.2 – 3.1 – 4.1</p>\n<p>         🟠 Tarea 4. Experimentamos en el aula<br />        Criterios:<br />        2.1 – 2.2 – 3.1 – 5.1</p>\n<p>        🔴 Tarea 5. Elaboramos propuestas<br />        Criterios:<br />       1.3 – 4.1 – 5.1 – 6.1</p>\n<p>       🟣 Tarea 6. Presentación final<br />       Criterios:<br />       1.1 – 3.1 – 4.1 – 5.1 – 6.1</p>\n<p> <br />🧪<strong> Instrumentos de evaluación</strong><br />Los instrumentos de evaluación utilizados serán:</p>\n<ul>\n<li>rúbrica de trabajo cooperativo y competencia digital,</li>\n<li>lista de cotejo para la exposición final,</li>\n<li>observación directa,</li>\n<li>revisión de productos digitales,</li>\n<li>autoevaluación y coevaluación.<br />La evaluación será:</li>\n<li>continua,</li>\n<li>formativa,</li>\n<li>competencial,</li>\n<li>y adaptada a la diversidad del alumnado.<br /> <br />🕒 <strong>Temporalización</strong><br />La Situación de Aprendizaje se desarrollará durante 10 sesiones de 55 minutos.</li>\n</ul>\n<ul style=\"list-style-type: square;\">\n<li style=\"text-align: justify;\">Tarea                                            Sesiones<br />¿Qué respiramos?                             2<br />Investigamos contaminantes            2<br />Medimos calidad del aire                 2<br />Experimentamos                               1<br />Elaboramos propuestas                    2<br />Presentación final                             1<br /> <br />📍 Espacios utilizados<br />Aula ordinaria<br />Aula TIC<br />Laboratorio<br />📝 <strong>Recomendaciones para el profesorado</strong><br />Comprobar previamente el funcionamiento de los recursos digitales.<br />Facilitar tutoriales sencillos para el alumnado.<br />Adaptar tiempos y agrupamientos según necesidades.<br />Priorizar el acompañamiento y la guía durante el trabajo cooperativo.<br />Favorecer un clima participativo e inclusivo.<br /> <br />🌱 <strong>Conclusión</strong><br />Esta Situación de Aprendizaje pretende fomentar una enseñanza de la Física y la Química conectada con problemas reales del entorno, favoreciendo el aprendizaje significativo, la competencia digital y la conciencia ambiental del alumnado mediante metodologías activas e inclusivas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778520941145-woszr2d9w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778520941145-woszr2d9w</odePageId>
+      <odeBlockId>block-1778520943338-6vj0sp4ab</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778520941145-woszr2d9w</odePageId>
+          <odeBlockId>block-1778520943338-6vj0sp4ab</odeBlockId>
+          <odeIdeviceId>idevice-1778520943335-vfob90qhc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🧪 <strong>“La química que respiras: investigando la calidad del aire en nuestro entorno”</strong></p>
+<p> <br />👩‍🏫 <strong>Autoría</strong><br />Material elaborado por:</p>
+<p>Silvia Fernández Meléndez</p>
+<p>para la materia de Física y Química de 3.º ESO.</p>
+<p> <br />📝 <strong>Descripción</strong><br />Este recurso educativo ha sido diseñado mediante eXeLearning 3 como Situación de Aprendizaje basada en metodologías activas y aprendizaje competencial.</p>
+<p>El proyecto trabaja:</p>
+<ul>
+<li>investigación científica,</li>
+<li>competencia digital,</li>
+<li>trabajo cooperativo,</li>
+<li>y conciencia ambiental.                                                                                                                                              💻 <strong>Herramientas utilizadas</strong></li>
+<li>eXeLearning</li>
+<li>Canva</li>
+<li>Symbaloo</li>
+<li>Padlet</li>
+<li>Google Docs</li>
+<li>Google Sheets</li>
+<li style="text-align: justify;">Genially                                                                                                                                                                      🌐 <strong>Recursos e imágenes</strong><br />Las imágenes y recursos utilizados proceden de bancos de imágenes libres de derechos y recursos educativos abiertos.</li>
+</ul>
+<p>Fuentes utilizadas:</p>
+<ul>
+<li>Pixabay</li>
+<li>Unsplash</li>
+<li>Wikimedia Commons<br /> <br />⚖️ <strong>Licencia</strong><br />Este recurso se comparte bajo licencia:</li>
+</ul>
+<p><strong>Creative Commons CC BY-SA 4.0</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778520943335-vfob90qhc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🧪 <strong>“La química que respiras: investigando la calidad del aire en nuestro entorno”</strong></p>\n<p> <br />👩‍🏫 <strong>Autoría</strong><br />Material elaborado por:</p>\n<p>Silvia Fernández Meléndez</p>\n<p>para la materia de Física y Química de 3.º ESO.</p>\n<p> <br />📝 <strong>Descripción</strong><br />Este recurso educativo ha sido diseñado mediante eXeLearning 3 como Situación de Aprendizaje basada en metodologías activas y aprendizaje competencial.</p>\n<p>El proyecto trabaja:</p>\n<ul>\n<li>investigación científica,</li>\n<li>competencia digital,</li>\n<li>trabajo cooperativo,</li>\n<li>y conciencia ambiental.                                                                                                                                              💻 <strong>Herramientas utilizadas</strong></li>\n<li>eXeLearning</li>\n<li>Canva</li>\n<li>Symbaloo</li>\n<li>Padlet</li>\n<li>Google Docs</li>\n<li>Google Sheets</li>\n<li style=\"text-align: justify;\">Genially                                                                                                                                                                      🌐 <strong>Recursos e imágenes</strong><br />Las imágenes y recursos utilizados proceden de bancos de imágenes libres de derechos y recursos educativos abiertos.</li>\n</ul>\n<p>Fuentes utilizadas:</p>\n<ul>\n<li>Pixabay</li>\n<li>Unsplash</li>\n<li>Wikimedia Commons<br /> <br />⚖️ <strong>Licencia</strong><br />Este recurso se comparte bajo licencia:</li>\n</ul>\n<p><strong>Creative Commons CC BY-SA 4.0</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
